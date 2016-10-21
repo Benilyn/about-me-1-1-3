@@ -1,0 +1,17 @@
+p	{
+	
+	padding: 30px;
+	
+}
+body	{
+	background-color: azure;
+	border: 1px solid aquamarine;
+	padding: 30px;
+}
+li	{
+	padding: 30px;
+}
+span	{
+	margin-bottom: 15px;
+	display: block;
+}
